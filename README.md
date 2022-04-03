@@ -8,4 +8,4 @@ The API provider: http://www.OpenWeatherMap.org
 
 ## Live demo
 
-[Javascript Weather App](https://weatherdeveloper.netlify.app/)
+[Weather versi gua](https://weatherdeveloper.netlify.app/)
